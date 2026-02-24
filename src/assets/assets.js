@@ -289,7 +289,7 @@ export const food_list = [
     image: mangomilkshake,
     price: 9,
     description: "Mango milkshake is  filled with fresh mango fruit and fruity sweetness",
-    category: "Fruits & Nuts Rolls"
+    category: "Rolls"
   },
   {
     id: "24",
