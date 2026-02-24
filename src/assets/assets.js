@@ -286,9 +286,9 @@ export const food_list = [
   {
     id: "23",
     name: "Chicken roll",
-    image: mangomilkshake,
+    image: chicken_roll,
     price: 9,
-    description: "Mango milkshake is  filled with fresh mango fruit and fruity sweetness",
+    description: "Delicious and testy food",
     category: "Rolls"
   },
   {
@@ -296,7 +296,7 @@ export const food_list = [
     name: "Vegitable roll",
     image: vegie_roll,
     price: 7,
-    description: "",
+    description: "Healthy food",
     category: "Fruits & Nuts Rolls"
   },
  
